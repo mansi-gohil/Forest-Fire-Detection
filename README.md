@@ -1,6 +1,5 @@
 # WildfireWatch | IOT and ML based Forest Fire Detection 
 
-![Logo](https://github.com/mansi-gohil/Forest-Fire-Detection/assets/86056584/ad19dadd-d559-464f-bb3c-de8d6e9b69c9)
 
 Forest fire detection systems are gaining a lot of attention because of the continual threat from fire to both economic properties and public safety. Hundreds of millions of hectares are destroyed by wildfires each year and over 200,000 forest fires happen every year in the world. Forest fires destroy a total area of 3.5 to 4.5 million sq km. Increase in forest fires in forest areas around the world has resulted in an increased motivation for developing fire warning systems for the early detection of wildfires. Sensor technology has been widely used in fire detection, usually depending on sensing physical parameters such as changes in pressure, humidity, and temperature, as well as chemical parameters such as carbon dioxide, carbon monoxide, and nitrogen dioxide. However, it is hard to apply these systems in large open areas for a variety of reasons such as high cost, energy usage by the sensors, and the necessary proximity of the sensor to the fire for accurate sensing resulting in physical damage to the sensors.
 
