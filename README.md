@@ -35,20 +35,6 @@ Forest fire detection systems are gaining a lot of attention because of the cont
 - Windows 7 and above
 
 
-
-## System Design
-
-![](https://github.com/mansi-gohil/Forest-Fire-Detection/assets/86056584/d157d403-4868-4a9e-916f-26aa0579209e)
-
-## System Implementation (using IOT)
-
-![](https://github.com/mansi-gohil/Forest-Fire-Detection/assets/86056584/3b9bbd25-38d8-49ea-b841-7c17926fafcb)
-
-## System Implementation (using ML)
-![](https://github.com/mansi-gohil/Forest-Fire-Detection/assets/86056584/c049d77f-47c3-4005-ba68-709ade11f509)
-
-![](https://github.com/mansi-gohil/Forest-Fire-Detection/assets/86056584/de855ab1-8298-4974-9915-ae498fbdd979)
-
 ## Flow Chart 
 ![](https://github.com/mansi-gohil/Forest-Fire-Detection/assets/86056584/b64d1004-9da8-4d41-8b3e-942a1dac541f)
 
